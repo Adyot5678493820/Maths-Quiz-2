@@ -1,0 +1,36 @@
+body {
+    background-color: coral;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(8, 241, 156);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#place , #cake
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgb(242, 210, 3);
+border-radius: 10px;
+border-top: 10px solid #b81548;
+padding: 10px;
+float: none;
+text-align: left;
+size: 30px;
+}
